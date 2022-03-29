@@ -1,6 +1,6 @@
 # OOP-Python: Class, Object, Inheritance 
 
-# Problem Statment: This is an assignment problem for CP1890 of Winter 2022 at CNA
+# Problem Statment 1: This is an assignment problem for CP1890 of Winter 2022 at CNA
    
 <p>We have been tasked with creating a program to run an ATM. In this iteration of development, 
 we are only concerned with creating the following functionality related to bank accounts:
